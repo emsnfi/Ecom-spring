@@ -1,8 +1,8 @@
 package com.ecommerce.common.entity;
-//import jakarta.persistence.*;
-import javax.persistence.*;
-import javax.persistence.Entity;
-import javax.persistence.Table;
+import jakarta.persistence.*;
+//import javax.persistence.*;
+//import javax.persistence.Entity;
+//import javax.persistence.Table;
 
 @Entity
 @Table(name = "roles")
